@@ -7,5 +7,6 @@ date: 26 Apr 2025
 tags: [Song,Project,Year2025]
 ---
 
-temporary link:
-<iframe src="https://sprinkle-atlasaurus-0af.notion.site/ebd/1c4f0fc1ec5b803fa406ec0b541adfcd" width="100%" height="600" frameborder="0" allowfullscreen />
+Temporary link:
+
+<iframe src="https://sprinkle-atlasaurus-0af.notion.site/ebd/1c4f0fc1ec5b803fa406ec0b541adfcd" width="100%" height="100%" frameborder="0" allowfullscreen />
