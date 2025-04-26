@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 30-Day Song Challenge
-feature-img: ![207ba0c51914c53d77e60d6fecfcbc6e.jpeg](https://i.miji.bid/2025/04/26/207ba0c51914c53d77e60d6fecfcbc6e.jpeg)
-img: ![207ba0c51914c53d77e60d6fecfcbc6e.jpeg](https://i.miji.bid/2025/04/26/207ba0c51914c53d77e60d6fecfcbc6e.jpeg)
+feature-img: "assets/img/portfolio/thirty_day_sc.jpeg"
+img: 
 date: 26 Apr 2025
 tags: [Song,Project,Year2025]
 ---
