@@ -7,4 +7,4 @@ date: September, 19 2025
 ---
 可能需要一小段时间加载:
 
-<iframe src="https://www.douban.com/doulist/156999620/" width="100%" height="100%" frameborder="0" allowfullscreen />
+<iframe src="https://www.douban.com/doulist/156999620/" width="100%" height="1000" frameborder="0" allowfullscreen />
