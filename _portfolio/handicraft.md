@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Handicraft				       
-img: "assets/since2025/portfolio/dasney/Dasney_handcraft_.jpg"           
+img: "assets/since2025/portfolio/dasney/Dasney_handicraft.jpg"           
 tag: [at_portfolio]
 date: September, 19 2025
 ---
