@@ -9,4 +9,4 @@ Weekly trend: [[visit_my_last.fm]](https://www.last.fm/user/jc1108_/listening-re
 
 可能需要一小段时间加载 (仅供参考，更新不及时)：
 
-<iframe src="https://www.last.fm/user/jc1108_/listening-report/week" width="100%" height="600" frameborder="0" allowfullscreen />
+<iframe src="https://www.douban.com/doulist/156999620/" width="100%" height="600" frameborder="0" allowfullscreen />
