@@ -3,7 +3,7 @@ layout: post
 title: youxiwozhiwandwrg				       # Title of the portfolio post
 img: "assets/since2025/portfolio/dasney/Dasney_idv.jpg"           # Will display the image in the portfolio page
 tag: [at_portfolio]
-color: SteelBlue
+color: Indigo
 date: September, 19 2025
 ---
 > smgf, xyjq
