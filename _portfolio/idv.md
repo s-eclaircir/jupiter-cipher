@@ -3,7 +3,7 @@ layout: post
 title: 游戏我只玩第五人格				       # Title of the portfolio post
 img: "assets/since2025/portfolio/dasney/Dasney_idv.jpg"           # Will display the image in the portfolio page
 tag: [at_portfolio]
-color: #6F3381
+color: rgb(111,51,129)
 date: September, 19 2025
 ---
 > smgf, xyjq
