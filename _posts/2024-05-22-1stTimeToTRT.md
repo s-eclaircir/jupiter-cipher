@@ -2,7 +2,7 @@
 author: JC
 layout: post
 title: 第一次来少轮少
-tags: [Blog,Year2023,notAtEvenJcs]
+tags: [Blog,Year2024,notAtEvenJcs]
 ---
 
 我需要专注在一件或者多件事情上，这样我的情绪才不会打扰我。 7:45AM
