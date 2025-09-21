@@ -3,7 +3,8 @@ layout: post
 title: 小汽车日记
 tags: [Year2025,Blog,车] 
 color: MidnightBlue
-hide: true
+Hide: true
+comment: true
 ---
 
 目前已驾驶大约 30+10+10+7+7 km
